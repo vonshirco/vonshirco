@@ -29,10 +29,9 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
     <a href="https://console.cloud.google.com/"><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/></a>
+    <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
     <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/48/fff/arduino.png"/></a>
     <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/fff/git.png"/></a>
-    <a href="https://github.com/"><img src="https://img.icons8.com/color/48/fff/github.png"/></a>
-    <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/fff/visual-studio-code-2019.png"/></a>
 </p>
 
 
