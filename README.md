@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Interests: Passionate about Technology and Innovations
+- ❤️ Interests: Passionate about Technology and Innovations
 
 ## Languages
 
@@ -33,6 +33,11 @@
     <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/48/fff/arduino.png"/></a>
     <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/fff/git.png"/></a>
 </p>
+
+## My Github Stats
+
+| <a href="https://github.com/vonshirco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vonshirco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Von's github stats" /></a> | <a href="https://github.com/v/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonshirco&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 [website]: https://codeSTACKr.com
