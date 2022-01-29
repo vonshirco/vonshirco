@@ -36,8 +36,8 @@
 
 ## My Github Stats
 
-| <a href="https://github.com/vonshirco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vonshirco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Von's github stats" /></a> | <a href="https://github.com/v/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonshirco&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![Von's GitHub stats](https://github-readme-stats.vercel.app/api?username=vonshirco&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/vonshirco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonshirco&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://codeSTACKr.com
