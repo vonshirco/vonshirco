@@ -1,7 +1,7 @@
-### Hi there, I'm Von 👋 | Tech Enthusiast
+### Hi there, It's Von 👋 | Tech Enthusiast
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![](https://komarev.com/ghpvc/?username=vonshirco&style=plastic)
+[![GitHub followers](https://img.shields.io/github/followers/vonshirco?style=social&label=Followers&maxAge=2592000)](https://github.com/vonshirco?tab=followers)
 
 ## I'm a FullStack Developer | IoT & Embedded Systems Developer
 
