@@ -1,4 +1,4 @@
-## Hi there, It's Von 👋 | Tech Enthusiast
+## Hi there, It's Von 👋 | A Tech Enthusiast 🧑‍💻
 
 ![](https://komarev.com/ghpvc/?username=vonshirco&style=plastic)
 [![GitHub followers](https://img.shields.io/github/followers/vonshirco?style=social&label=Followers&maxAge=2592000)](https://github.com/vonshirco?tab=followers)
