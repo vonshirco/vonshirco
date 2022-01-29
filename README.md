@@ -28,7 +28,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
-    <a href="https://console.cloud.google.com/"><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/></a>
+    <a href="https://console.cloud.google.com/"><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a>
     <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
     <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/48/fff/arduino.png"/></a>
     <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/fff/git.png"/></a>
@@ -49,17 +49,4 @@
     <a href="" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png"></a>
     <a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack-new.png"></a>
     <a href="https://discord.com/" target="_blank"><img src="https://img.icons8.com/color-glass/48/000000/discord-logo.png"/></a>
-    
-    
-    
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+</p>
