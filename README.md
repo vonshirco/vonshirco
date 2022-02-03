@@ -43,7 +43,7 @@
 ## Connect with me
 
 <p align="center">
-     <a href="https://www.wa.me/255784030683.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+     <a href="https://www.wa.me/255784030683" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
     <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="https://twitter.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
     <a href="https://instagram.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
