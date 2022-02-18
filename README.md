@@ -49,5 +49,5 @@
     <a href="https://instagram.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
     <a href="https://www.facebook.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
     <a href="https://join.slack.com/t/frontendmentor/shared_invite/zt-12n9c8i9i-k0VAj7WkurceDTMppk1hAw" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack-new.png"></a>
-    <a href="https://discord.com/" target="_blank"><img src="https://img.icons8.com/color-glass/48/000000/discord-logo.png"/></a>
+    <a href="https://discord.gg/CnZ3hsJwCB" target="_blank"><img src="https://img.icons8.com/color-glass/48/000000/discord-logo.png"/></a>
 </p>
