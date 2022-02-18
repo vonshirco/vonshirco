@@ -25,7 +25,7 @@
 
 ## Frameworks & Tools
 
-<p align="center" >
+<p align="center">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
