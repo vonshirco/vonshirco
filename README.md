@@ -40,9 +40,6 @@
 [![Von's Github stats](https://github-readme-stats.vercel.app/api?username=vonshirco&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/vonshirco/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonshirco&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-## :trophy: Git Profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vonshirco&layout=compact&theme=algolia" alt="vonshirco" /></a> </p>
 
 ## Connect with me
 
