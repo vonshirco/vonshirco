@@ -59,6 +59,6 @@
 | -------------------------------------| --------------------------------------------| ---------------------------------------------------------------------|
 | -                                    | -                                           | -                                                                    |
 | -                                    | -                                           | -                                |
-| *Any*                                | [Linuxbrew]                                 | `brew install zoxide`                                                |
+| -                                | [Linuxbrew]                                 | `brew install zoxide`                                                |
 | Alpine Linux 3.13+                   | [Alpine Linux Packages]                     | `apk add zoxide`                                                     |
 
