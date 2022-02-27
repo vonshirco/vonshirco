@@ -60,5 +60,5 @@
 | -                                    | -                                           | -                                                                    |
 | -                                    | -                                           | -                                |
 | -                                    | -                                           | -                                                |
-| Alpine Linux 3.13+                   | [Alpine Linux Packages]                     | `apk add zoxide`                                                     |
+| -                                    | [Alpine Linux Packages]                     | `apk add zoxide`                                                     |
 
