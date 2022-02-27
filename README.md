@@ -60,5 +60,5 @@
 | -                                    | -                                           | -                                                                    |
 | -                                    | -                                           | -                                |
 | -                                    | -                                           | -                                                |
-| -                                    | [Alpine Linux Packages]                     | `apk add zoxide`                                                     |
+| -                                    | -                                           | `apk add zoxide`                                                     |
 
