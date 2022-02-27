@@ -58,7 +58,7 @@
 | Project Name                         | Github                                      | Demo                                                                 |
 | -------------------------------------| --------------------------------------------| ---------------------------------------------------------------------|
 | -                                    | -                                           | -                                                                    |
-| -                                    | [conda-forge]                               | `conda install -c conda-forge zoxide`                                |
+| -                                    | -                                           | `conda install -c conda-forge zoxide`                                |
 | *Any*                                | [Linuxbrew]                                 | `brew install zoxide`                                                |
 | Alpine Linux 3.13+                   | [Alpine Linux Packages]                     | `apk add zoxide`                                                     |
 
