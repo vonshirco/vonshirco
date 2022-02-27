@@ -52,3 +52,12 @@
     <a href="https://join.slack.com/t/frontendmentor/shared_invite/zt-12n9c8i9i-k0VAj7WkurceDTMppk1hAw" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack-new.png"></a>
     <a href="https://discord.gg/CnZ3hsJwCB" target="_blank"><img src="https://img.icons8.com/color-glass/48/000000/discord-logo.png"/></a>
 </p>
+
+## Projects
+| Distribution       | Repository              | Instructions                                                                                   |
+| ------------------ | ----------------------- | ---------------------------------------------------------------------------------------------- |
+| ***Any***          | **[crates.io]**         | `cargo install zoxide --locked`                                                                |
+| *Any*              | [conda-forge]           | `conda install -c conda-forge zoxide`                                                          |
+| *Any*              | [Linuxbrew]             | `brew install zoxide`                                                                          |
+| Alpine Linux 3.13+ | [Alpine Linux Packages] | `apk add zoxide`                                                                               |
+
