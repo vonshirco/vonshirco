@@ -55,8 +55,8 @@
 
 ## Projects
 
-| Distribution                         | Repository                                  | Instructions                                                         |
-| ------------------                   | -----------------------                     | ---------------------------------------------------------------------|
+| Project Name                         | Github                                      | Demo                                                                 |
+| -------------------------------------| --------------------------------------------| ---------------------------------------------------------------------|
 | ***Any***                            | **[crates.io]**                             | `cargo install zoxide --locked`                                      |
 | *Any*                                | [conda-forge]                               | `conda install -c conda-forge zoxide`                                |
 | *Any*                                | [Linuxbrew]                                 | `brew install zoxide`                                                |
