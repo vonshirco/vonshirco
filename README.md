@@ -57,7 +57,7 @@
 
 | Project Name                         | Github                                      | Demo                                                                 |
 | -------------------------------------| --------------------------------------------| ---------------------------------------------------------------------|
-| ***Any***                            | **[crates.io]**                             | `cargo install zoxide --locked`                                      |
+| -                                    | **[crates.io]**                             | `cargo install zoxide --locked`                                      |
 | *Any*                                | [conda-forge]                               | `conda install -c conda-forge zoxide`                                |
 | *Any*                                | [Linuxbrew]                                 | `brew install zoxide`                                                |
 | Alpine Linux 3.13+                   | [Alpine Linux Packages]                     | `apk add zoxide`                                                     |
