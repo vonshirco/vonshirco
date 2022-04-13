@@ -22,7 +22,7 @@
     <a style="padding-right:8px;" href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a style="padding-right:8px;" href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
-    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/r-project.png"/> </a> 
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/r-project.png"/> </a> 
 </p>
 
 ## Frameworks & Tools
