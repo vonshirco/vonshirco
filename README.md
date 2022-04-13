@@ -35,6 +35,7 @@
     <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
     <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/48/fff/arduino.png"/></a>
     <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/fff/git.png"/></a>
+    <a href="https://www.shellscript.sh/"><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
 </p>
 
 ## My Github Stats
