@@ -41,8 +41,10 @@
 </p>
 
 ## Badges
+<p align="center">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kamulika18coict.png" alt="TryHackMe">
+</p>
 
-- **TryHackMe** <img src="https://tryhackme-badges.s3.amazonaws.com/kamulika18coict.png" alt="TryHackMe">
 
 ## My Github Stats
 
