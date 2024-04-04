@@ -42,7 +42,7 @@
 
 ## Badges
 
-- TryHackMe <script src="https://tryhackme.com/badge/2968076"></script>
+- TryHackMe <img src="https://tryhackme-badges.s3.amazonaws.com/kamulika18coict.png" alt="TryHackMe">
 
 ## My Github Stats
 
