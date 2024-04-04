@@ -40,6 +40,10 @@
     <a href="https://www.shellscript.sh/"><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
 </p>
 
+## Badges
+
+- TryHackMe <script src="https://tryhackme.com/badge/2968076"></script>
+
 ## My Github Stats
 
 [![Von's Github stats](https://github-readme-stats.vercel.app/api?username=vonshirco&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117\&rank_icon=github)](https://github.com/vonshirco/github-readme-stats)
